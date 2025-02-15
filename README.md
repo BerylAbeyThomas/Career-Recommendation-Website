@@ -1,7 +1,7 @@
 # Career Recommendation Website
 
 ## Overview
-The Career Recommendation System is a **machine learning-based web application** that **analyzes resumes and provides personalized career suggestions**. It extracts information such as skills, work experience, and education from resumes using Natural Language Processing (NLP) and predicts suitable career paths using a Random Forest model trained on TF-IDF vectorized text data. The system also **integrates Google Custom Search API** to fetch real-time job listings based on the predicted career.
+The Career Recommendation System is a machine learning-based web application that analyzes resumes and provides personalized career suggestions. It extracts information such as skills, work experience, and education from resumes using Natural Language Processing (NLP) and predicts suitable career paths using a Random Forest model trained on TF-IDF vectorized text data. The system also integrates Google Custom Search API to fetch real-time job listings based on the predicted career.
 
 ## Workflow
 ![image](https://github.com/user-attachments/assets/bbcd729f-c059-4b9c-bf19-e1ffbecd8739)
