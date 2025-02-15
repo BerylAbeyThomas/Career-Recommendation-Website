@@ -47,8 +47,3 @@ To run this project, ensure you have the following dependencies installed:
 - **Anthea Suzanne**
 - **Ashish Ben**
 - **Smrithi Rajan**
-
-## License
-This project is licensed under the **MIT License**.
-
-
