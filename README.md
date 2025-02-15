@@ -1,18 +1,18 @@
 # Career Recommendation Website
 
 ## Overview
-The Career Recommendation System is a machine learning-based web application that analyzes resumes and provides personalized career suggestions. It extracts information such as skills, work experience, and education from resumes using Natural Language Processing (NLP) and predicts suitable career paths using a Random Forest model trained on TF-IDF vectorized text data. The system also integrates Google Custom Search API to fetch real-time job listings based on the predicted career.
+The Career Recommendation System is a **machine learning-based web application** that **analyzes resumes and provides personalized career suggestions**. It extracts information such as skills, work experience, and education from resumes using Natural Language Processing (NLP) and predicts suitable career paths using a Random Forest model trained on TF-IDF vectorized text data. The system also **integrates Google Custom Search API** to fetch real-time job listings based on the predicted career.
 
 ## Workflow
 ![image](https://github.com/user-attachments/assets/bbcd729f-c059-4b9c-bf19-e1ffbecd8739)
 
 
 ## Features
-1. Resume Parsing: Extracts structured information from PDF resumes.
-2. Skill Extraction: Uses spaCy NLP to identify key skills.
-3. Career Prediction: Employs TF-IDF and Random Forest for personalized recommendations.
-4. Job Search: Fetches job listings using Google Custom Search API.
-5. Web-Based Interface: Built with Flask and JavaScript for easy interaction.
+1. **Resume Parsing**: Extracts structured information from PDF resumes.
+2. **Skill Extraction**: Uses spaCy NLP to identify key skills.
+3. **Career Prediction**: Employs TF-IDF and Random Forest for personalized recommendations.
+4. **Job Search**: Fetches job listings using Google Custom Search API.
+5. **Web-Based Interface**: Built with Flask and JavaScript for easy interaction.
 
 ## Key Aspects
 #### 1. Model Evaluation
@@ -30,11 +30,11 @@ The Career Recommendation System is a machine learning-based web application tha
 ![image](https://github.com/user-attachments/assets/21ecd585-7536-4faa-9949-1e28e70031e9)
 
 ## Technologies Used
-1. Backend: Flask, Python
-2. NLP: spaCy, PyPDF2
-3. Machine Learning: Scikit-learn (TF-IDF Vectorizer, Random Forest Classifier)
-4. Frontend: HTML, CSS, JavaScript
-5. External API: Google Custom Search API
+1. **Backend**: Flask, Python
+2. **NLP**: spaCy, PyPDF2
+3. **Machine Learning**: Scikit-learn (TF-IDF Vectorizer, Random Forest Classifier)
+4. **Frontend**: HTML, CSS, JavaScript
+5. **External API**: Google Custom Search API
 
 ## Installation and Setup
 To run this project, ensure you have the following dependencies installed:
